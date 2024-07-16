@@ -90,7 +90,7 @@
         <section class="owner-details">
             <h2>Meet the Owner</h2>
             <img src="images/owner.jpg" alt="Cafe Owner">
-            <p>Hello, I'm [Owner's Name], the proud owner of Winny Cafe. My journey in the coffee industry began over a decade ago, driven by a passion for quality coffee and a dream to create a community space where everyone feels welcome.</p>
+            <p>Hello, I'm Vinnath Satharasinghe, the proud owner of Winny Cafe. My journey in the coffee industry began over a decade ago, driven by a passion for quality coffee and a dream to create a community space where everyone feels welcome.</p>
             <p>With a background in culinary arts and business management, I bring a unique blend of skills and experiences to Winny Cafe. My commitment to excellence has earned the cafe numerous awards and recognitions, and I continue to strive for the best in everything we do.</p>
             <p>When I'm not at the cafe, I enjoy exploring new coffee trends, attending industry events, and spending time with my family and friends. Thank you for being a part of the Winny Cafe community. I look forward to welcoming you and making your visit special.</p>
         </section>
