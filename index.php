@@ -1,4 +1,4 @@
-<?php include 'test.php'; ?>
+<?php include 'home.php'; ?>
 
 <main>
     <h1>Welcome to Our Website</h1>

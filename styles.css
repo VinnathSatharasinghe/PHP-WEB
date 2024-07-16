@@ -1,4 +1,4 @@
-/* Reset some default browser styles */
+
 body, h1, p, ul {
     margin: 0;
     padding: 0;
@@ -8,14 +8,13 @@ body, h1, p, ul {
     color: black !important ;
 }
 
-/* General body styling */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     line-height: 1.6;
 }
 
-/* Header and navigation styles */
+
 header {
     background-color: #333;
     color: #fff;
@@ -53,7 +52,6 @@ header {
     text-decoration: underline;
 }
 
-/* Main content styles */
 main {
     max-width: 1200px;
     margin: 20px auto;
@@ -80,7 +78,6 @@ p {
     color: #555;
 }
 
-/* Footer styles */
 footer {
     background-color: #333;
     color: #fff;
