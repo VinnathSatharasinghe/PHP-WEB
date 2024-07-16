@@ -28,3 +28,12 @@
             </ul>
         </nav>
     </header>
+
+    <main>
+        <section class="hero">
+            <h1>Welcome to our website</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut felis vel est semper ultricies vel at arcu. Donec vel iaculis erat, sed bibendum arcu. Donec vel libero non nunc semper fermentum.</p>
+        </section>
+    </main>
+    
+</body>
